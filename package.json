@@ -1,0 +1,19 @@
+{
+  "name": "lsp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/nearley": "^2.11.1",
+    "@types/node": "^14.14.20",
+    "nearley": "^2.20.1",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  }
+}
