@@ -1,4 +1,1 @@
-(print
-    (add ("Hello" "World")))
-
-(print "One more Hello")
+(print "Hello World")

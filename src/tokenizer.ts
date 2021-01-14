@@ -3,7 +3,7 @@ export enum LiteralType {
     String = "String",
     Number = "Number",
     Null = "Null",
-    Atom = "Atom"
+    Atom = "Atom",
 }
 
 export interface Literal {
